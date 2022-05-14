@@ -113,7 +113,7 @@ export const Results = () => {
     return (
       <div className="flex flex-col items-center justify-center  h-96">
         <p className="text-2xl sm:text-5xl text-center">WELCOME TO GOOGL</p>
-        <p>Where you can search anything </p>
+        <p>Where you can search for anything </p>
       </div>
     );
   }
